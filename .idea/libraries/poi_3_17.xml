@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="poi-3.17">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../poi-3.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../log4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../junit-3.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../commons-logging-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
